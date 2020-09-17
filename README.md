@@ -1,8 +1,8 @@
 ## Shashank Bhat
 
-You can use the [editor on GitHub](https://github.com/shashob/shashob.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I like to solve problems related to software and machine learning/AI.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am pursuing my master's degree from University at Buffalo (Expected December 2020) specializing in Artificial Intelligence.
 
 ### Markdown
 
